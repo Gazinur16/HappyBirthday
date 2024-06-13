@@ -1,0 +1,7 @@
+data/
+*.xml
+.idea/
+.venv/
+config.py
+*.json
+*.db
